@@ -1,0 +1,15 @@
+__pycache__/
+.idea/
+/panoramic-images/full-pano.png
+/flask-app-backend.tar
+/robot-radar-db.tar
+/panoramic-images/image-backup/
+/flask_session/
+/panoramic-images/frontPicture.png
+/panoramic-images/ninetyDegreesPicture.png
+/panoramic-images/oneEightyDegreesPicture.png
+/panoramic-images/twoSeventyDegreesPicture.png
+/panoramic-images/received-data/
+/panoramic-images/empty-image.png
+/panoramic-images/camera-data/liveStream.png
+/panoramic-images/received-livestream-data

@@ -1,0 +1,9 @@
+node_modules
+build
+.dockerignore
+Dockerfile
+<<<<<<< HEAD
+Dockerfile.prod
+=======
+Dockerfile.prod
+>>>>>>> c22702c (Post deployment: Updated ReadME)
